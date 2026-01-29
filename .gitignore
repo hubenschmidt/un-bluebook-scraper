@@ -11,3 +11,8 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Sensitive data (Fellowship list)
+UN_Disarmament_Fellowship*.xlsx
+matches_python.csv
+un_data.db
